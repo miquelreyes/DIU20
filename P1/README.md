@@ -11,12 +11,12 @@
 
 ## Paso 1. UX Desk Research & Analisis 
 
-![Método UX](img/Competitive.png) 1.a Competitive Analysis
+1.a Competitive Analysis
 -----
 
 La plataforma elegida ha sido Sofa Concerts (https://www.sofaconcerts.org/en) que es una plataforma para compartir ocio, tanto si eres un artista buscando donde tocar, alguien con un local o cualquier sitio donde llevar a cabo un concierto más íntimo o si buscas una experiencia musical diferente.
 
-![Método UX](img/Persona.png) 1.b Personas
+1.b Personas
 -----
 
 Se han creado dos personas:
@@ -27,7 +27,7 @@ Se han creado dos personas:
 ![Persona Andres](capturas/persona_andres.png)
 ![Persona Maribel](capturas/persona_maribel.png)
 
-![Método UX](img/JourneyMap.png) 1.c User Journey Map
+1.c User Journey Map
 ----
 
 He escogido una experiencia de usuario para cada persona teniendo en cuenta sus necesidades. Andrés busca conciertos baratos y Maribel artistas interesados en tocar en su local.
@@ -35,7 +35,7 @@ He escogido una experiencia de usuario para cada persona teniendo en cuenta sus 
 ![Journey Andres](capturas/journey_andres.png)
 ![Journey Maribel](capturas/journey_maribel.png)
 
-![Método UX](img/usabilityReview.png) 1.d Usability Review
+1.d Usability Review
 ----
 >>>  Revisión de usabilidad: (toma los siguientes documentos de referncia y verifica puntos de verificación de  usabilidad
 >>>> SE deben incluir claramente los siguientes elementos
