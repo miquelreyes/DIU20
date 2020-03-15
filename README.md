@@ -10,7 +10,7 @@ Descripción:
 Logotipo: 
 
 Miembros
- * :bust_in_silhouette:   Miquel Reyes Castells (@miquelreyes)    :octocat:
+ * :bust_in_silhouette:   Miquel Reyes Castells [@miquelreyes](https://github.com/miquelreyes)    :octocat:
 
 ----- 
 
@@ -35,8 +35,8 @@ La plataforma elegida ha sido Sofa Concerts (https://www.sofaconcerts.org/en) qu
 
 Se han creado dos personas:
 
-- Andrés, un joven que busca nuevos eventos musicales que no afecten demasiado a su bolsillo.
-- Maribel, una mujer propietaria de un bar que busca acoger eventos que atraigan a nuevo público a su local así como apoyar a los artistas de su ciudad.
+- **Andrés**, un joven que busca nuevos eventos musicales que no afecten demasiado a su bolsillo.
+- **Maribel**, una mujer propietaria de un bar que busca acoger eventos que atraigan a nuevo público a su local así como apoyar a los artistas de su ciudad.
 
 ![Método UX](img/JourneyMap.png) 1.c User Journey Map
 ----
